@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>nova</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605201319541PXH43</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260520131954Z2F6SP</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>¿Qué nos enseña Jesús hoy?</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Brian Bojanowski</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje sobre las parábolas de Jesús · Religión Evangélica · 2.º ESO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>nova</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779174436792</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpcaitf6-gplex7237</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Presentación del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcaitf6-gplex7237</odePageId>
+      <odeBlockId>block-1778825761811-4n733vrv9</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcaitf6-gplex7237</odePageId>
+          <odeBlockId>block-1778825761811-4n733vrv9</odeBlockId>
+          <odeIdeviceId>idevice-1778825761804-s56lau61v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1. DATOS DE IDENTIFICACIÓN DEL PROYECTO</p>
+<p> FICHA DE IDENTIFICACIÓN<br />Título del proyecto<br /><img src="{{context_path}}/content/resources/arabolas.jpg" title="parábolas conocidas" width="315" height="422" alt="Jesús y las parábolas" style="float: right;" />Centro de interés / Temática<br />Las parábolas de Jesús y su aplicación a la vida cotidiana del alumnado<br />Materia<br />Religión Evangélica<br />Nivel educativo<br />2.º ESO (Educación Secundaria Obligatoria)<br />Temporalización<br />4 semanas (aprox. 8 sesiones de 55 minutos)<br />Idioma<br />Español<br />Autor: Brian Bojanowski<br />Centro educativo: IES Llanes<br />Curso escolar<br />2024-2025</p>
+<p><br /></p>
+<p>2. DESCRIPCIÓN GENERAL DE LA SITUACIÓN DE APRENDIZAJE</p>
+<p>Esta Situación de Aprendizaje (SdA) propone al alumnado de 2.º de ESO un reto de indagación y creación: descubrir el mensaje de las parábolas de Jesús y explorar cómo ese mensaje puede iluminar situaciones reales de su vida cotidiana. El proyecto parte de la lectura y comprensión de textos bíblicos para llegar, de forma creativa y colaborativa, a un producto digital que comunique ese aprendizaje.</p>
+<p>El alumnado trabajará en equipo para analizar una parábola asignada, investigar su contexto, identificar su enseñanza central y conectarla con una situación real del entorno del alumnado. El producto final consistirá en una presentación digital elaborada con herramientas como Canva (incluyendo el uso guiado de su función de Inteligencia Artificial) o Google Slides, que será expuesta al resto de la clase.</p>
+<p>¿Qué aprenderá y trabajará el alumnado?</p>
+<p>Comprensión lectora bíblica: leer, analizar y comprender textos del Evangelio en su contexto histórico-cultural.</p>
+<p>Pensamiento crítico y reflexivo: identificar el mensaje central de una parábola y conectarlo con dilemas éticos actuales.</p>
+<p>Competencia digital: utilizar herramientas de presentación digital (Canva, Google Slides) y nociones básicas de prompts con IA para diseñar contenido visual.</p>
+<p>Trabajo cooperativo: asumir roles y responsabilidades dentro del equipo, respetando los distintos ritmos de aprendizaje.</p>
+<p>Comunicación oral: exponer el trabajo ante el grupo de forma clara y argumentada.</p>
+<p>Creatividad y transferencia: trasladar un mensaje bíblico a un lenguaje visual contemporáneo accesible para otros jóvenes.</p>
+<p><br /></p>
+<p><br />Parábolas propuestas (selección orientativa)</p>
+<p>La Oveja Perdida (Lucas 15:1-7)</p>
+<p>El Hijo Pródigo (Lucas 15:11-32)</p>
+<p>El Buen Samaritano (Lucas 10:25-37)</p>
+<p>Los Talentos (Mateo 25:14-30)</p>
+<p>El Sembrador (Marcos 4:1-20)</p>
+<p><br /></p>
+<p><br />3. JUSTIFICACIÓN DE LA PROPUESTA</p>
+<p>La presente SdA surge directamente de las conclusiones obtenidas en la Rutina de Pensamiento (Modelo de Gibbs) elaborada en la Tarea 1.1, en la que se reflexionó sobre una actividad previa realizada con alumnado de 2.º de ESO en la asignatura de Religión Evangélica. A continuación se justifica cada elemento de la propuesta en base a dicha reflexión:</p>
+<p>Centro de interés: Las parábolas de Jesús</p>
+<p>La experiencia previa demostró que el estudio de las parábolas —en particular la de la Oveja Perdida— generó implicación real en el alumnado. El hecho de conectar el texto bíblico con la vida cotidiana actuó como detonante motivacional. Mantener esta temática y ampliarla a varias parábolas garantiza continuidad curricular y aprovecha el interés ya despertado.</p>
+<p>Nivel: 2.º ESO</p>
+<p>El grupo de 2.º de ESO es conocido por el docente, que ya ha establecido una relación de confianza con el alumnado. La reflexión señaló que esa confianza facilita que el alumnado pregunte cuando tiene dudas y colabore. Mantener el nivel permite capitalizar ese vínculo.</p>
+<p>Temporalización ampliada (4 semanas / 8 sesiones)</p>
+<p>Uno de los aprendizajes clave de la experiencia anterior fue la necesidad de ampliar el tiempo disponible y de anticipar mejor las dificultades técnicas. Con 2 semanas resultó ajustado; se proponen ahora 4 semanas para incluir una fase de preparación técnica y otra de ensayo antes de la exposición, reduciendo la presión de tiempo y mejorando la fluidez del trabajo.</p>
+<p>Herramientas digitales y uso guiado de la IA</p>
+<p>La Rutina de Pensamiento identificó que el alumnado desconoce funciones básicas (Ctrl+C / Ctrl+V) y que necesita más apoyo inicial en el uso de herramientas. Esta SdA incorpora una sesión introductoria específica de alfabetización digital y una guía paso a paso para el uso de Canva y su función de IA (redacción de prompts), abordando directamente la debilidad detectada.</p>
+<p>Trabajo cooperativo con roles definidos</p>
+<p>La experiencia mostró que los distintos ritmos del alumnado pueden dificultar el trabajo en equipo. Al ser un grupo reducido (3 alumnos en el caso anterior), la asignación de roles claros (coordinador, redactor, diseñador) permite que cada uno contribuya desde sus puntos fuertes y avance a su propio ritmo sin bloquear al equipo.</p>
+<p>Materia: Religión Evangélica</p>
+<p>La SdA se enmarca en el currículo de Religión Evangélica, conectando los saberes básicos de la asignatura (texto bíblico, mensaje cristiano, valores evangélicos) con las competencias clave del perfil de salida del alumnado, especialmente la competencia digital y la competencia personal, social y de aprender a aprender.</p>
+<p>Diseño Universal para el Aprendizaje (DUA)</p>
+<p>La reflexión destacó que cada alumno sigue un ritmo diferente y que el acompañamiento cercano —tanto motivacional como técnico— es lo que mejor funciona. La SdA incorpora múltiples medios de representación (vídeo, texto, presentación oral), de acción y expresión (digital, oral, visual) y de implicación (elección de parábola, libertad creativa en el diseño), respondiendo así a la diversidad del aula.</p>
+<p><br /></p>
+<p><br />4. ESTRUCTURA Y FASES DE LA SITUACIÓN DE APRENDIZAJE</p>
+<p>FASE 1 · Semana 1 · Sesiones 1-2 | MOTIVACIÓN Y COMPRENSIÓN DEL TEXTO<br />Presentación del reto. Lectura guiada de las parábolas. Lluvia de ideas sobre su significado. Introducción básica a Canva y Google Slides (atajos de teclado, funciones esenciales).</p>
+<p>FASE 2 · Semana 2 · Sesiones 3-4 | INVESTIGACIÓN Y DISEÑO<br />Investigación en internet sobre el contexto histórico de la parábola elegida. Conexión con situaciones cotidianas. Inicio del diseño de la presentación. Uso guiado de la IA de Canva (elaboración del prompt).</p>
+<p>FASE 3 · Semana 3 · Sesiones 5-6 | ELABORACIÓN DEL PRODUCTO DIGITAL<br />Desarrollo y maquetación completa de la presentación. Revisión por pares. Ajustes de contenido y diseño. Ensayo de la exposición.</p>
+<p>FASE 4 · Semana 4 · Sesiones 7-8 | EXPOSICIÓN Y EVALUACIÓN<br />Exposición oral del trabajo al grupo. Coevaluación con rúbrica. Reflexión final: ¿qué aprendí? ¿cómo lo usaría en mi vida?</p>
+<p><br /></p>
+<p><br />5. INDICADORES DEL MARCO DE REFERENCIA DE COMPETENCIA DIGITAL</p>
+<p> Indicador 1.3.B2.4<br />Descripción<br />Diseña estrategias para gestionar la incertidumbre derivada de la planificación de prácticas transformadoras perfiladas tras el análisis.<br />Aplicación en la SdA<br />La SdA incorpora una fase de preparación técnica (Sesiones 1-2) que anticipa las dificultades detectadas en la experiencia previa, gestionando la incertidumbre antes de que aparezca.</p>
+<p><br /></p>
+<p> Indicador 1.4.B2.1<br />Descripción<br />Adapta los conocimientos y experiencias, intercambiados en comunidades profesionales en línea y/o actividades formativas presenciales sobre el uso de las tecnologías digitales y evalúa su puesta en práctica.<br />Aplicación en la SdA<br />El diseño de la SdA aplica directamente los aprendizajes adquiridos en esta formación B2 y los contrasta con la experiencia real de aula documentada en la Rutina de Pensamiento.</p>
+<p><br /></p>
+<p> Indicador 2.2.B2.1<br />Descripción<br />Crea, de forma individual o en colaboración con otros, nuevas unidades y secuencias de aprendizaje a partir de la integración de contenidos digitales diversos.<br />Aplicación en la SdA<br />La SdA integra texto bíblico, investigación web, herramientas de diseño digital (Canva con IA, Google Slides) y exposición oral en una secuencia coherente adaptada al contexto del aula.</p>
+<p><br /></p>
+<p>6. NOTA SOBRE EL PRODUCTO FINAL (eXeLearning)</p>
+<p>Este documento constituye la Tarea 2.1 del curso de formación B2 de Competencia Digital Docente. Sus contenidos serán incorporados posteriormente al producto final elaborado con la herramienta eXeLearning, junto con los demás elementos exigidos (protección de datos, curación de contenidos, línea temporal, criterios e instrumentos de evaluación), de acuerdo con las instrucciones del curso.</p>
+<p>La Rutina de Pensamiento (Tarea 1.1) no se incluye en este documento, pero ha servido como base reflexiva para justificar cada una de las decisiones de diseño recogidas en el apartado 3 de este documento.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778825761804-s56lau61v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1. DATOS DE IDENTIFICACIÓN DEL PROYECTO</p>\n<p> FICHA DE IDENTIFICACIÓN<br />Título del proyecto<br /><img src=\"{{context_path}}/content/resources/arabolas.jpg\" title=\"parábolas conocidas\" width=\"315\" height=\"422\" alt=\"Jesús y las parábolas\" style=\"float: right;\" />Centro de interés / Temática<br />Las parábolas de Jesús y su aplicación a la vida cotidiana del alumnado<br />Materia<br />Religión Evangélica<br />Nivel educativo<br />2.º ESO (Educación Secundaria Obligatoria)<br />Temporalización<br />4 semanas (aprox. 8 sesiones de 55 minutos)<br />Idioma<br />Español<br />Autor: Brian Bojanowski<br />Centro educativo: IES Llanes<br />Curso escolar<br />2024-2025</p>\n<p><br /></p>\n<p>2. DESCRIPCIÓN GENERAL DE LA SITUACIÓN DE APRENDIZAJE</p>\n<p>Esta Situación de Aprendizaje (SdA) propone al alumnado de 2.º de ESO un reto de indagación y creación: descubrir el mensaje de las parábolas de Jesús y explorar cómo ese mensaje puede iluminar situaciones reales de su vida cotidiana. El proyecto parte de la lectura y comprensión de textos bíblicos para llegar, de forma creativa y colaborativa, a un producto digital que comunique ese aprendizaje.</p>\n<p>El alumnado trabajará en equipo para analizar una parábola asignada, investigar su contexto, identificar su enseñanza central y conectarla con una situación real del entorno del alumnado. El producto final consistirá en una presentación digital elaborada con herramientas como Canva (incluyendo el uso guiado de su función de Inteligencia Artificial) o Google Slides, que será expuesta al resto de la clase.</p>\n<p>¿Qué aprenderá y trabajará el alumnado?</p>\n<p>Comprensión lectora bíblica: leer, analizar y comprender textos del Evangelio en su contexto histórico-cultural.</p>\n<p>Pensamiento crítico y reflexivo: identificar el mensaje central de una parábola y conectarlo con dilemas éticos actuales.</p>\n<p>Competencia digital: utilizar herramientas de presentación digital (Canva, Google Slides) y nociones básicas de prompts con IA para diseñar contenido visual.</p>\n<p>Trabajo cooperativo: asumir roles y responsabilidades dentro del equipo, respetando los distintos ritmos de aprendizaje.</p>\n<p>Comunicación oral: exponer el trabajo ante el grupo de forma clara y argumentada.</p>\n<p>Creatividad y transferencia: trasladar un mensaje bíblico a un lenguaje visual contemporáneo accesible para otros jóvenes.</p>\n<p><br /></p>\n<p><br />Parábolas propuestas (selección orientativa)</p>\n<p>La Oveja Perdida (Lucas 15:1-7)</p>\n<p>El Hijo Pródigo (Lucas 15:11-32)</p>\n<p>El Buen Samaritano (Lucas 10:25-37)</p>\n<p>Los Talentos (Mateo 25:14-30)</p>\n<p>El Sembrador (Marcos 4:1-20)</p>\n<p><br /></p>\n<p><br />3. JUSTIFICACIÓN DE LA PROPUESTA</p>\n<p>La presente SdA surge directamente de las conclusiones obtenidas en la Rutina de Pensamiento (Modelo de Gibbs) elaborada en la Tarea 1.1, en la que se reflexionó sobre una actividad previa realizada con alumnado de 2.º de ESO en la asignatura de Religión Evangélica. A continuación se justifica cada elemento de la propuesta en base a dicha reflexión:</p>\n<p>Centro de interés: Las parábolas de Jesús</p>\n<p>La experiencia previa demostró que el estudio de las parábolas —en particular la de la Oveja Perdida— generó implicación real en el alumnado. El hecho de conectar el texto bíblico con la vida cotidiana actuó como detonante motivacional. Mantener esta temática y ampliarla a varias parábolas garantiza continuidad curricular y aprovecha el interés ya despertado.</p>\n<p>Nivel: 2.º ESO</p>\n<p>El grupo de 2.º de ESO es conocido por el docente, que ya ha establecido una relación de confianza con el alumnado. La reflexión señaló que esa confianza facilita que el alumnado pregunte cuando tiene dudas y colabore. Mantener el nivel permite capitalizar ese vínculo.</p>\n<p>Temporalización ampliada (4 semanas / 8 sesiones)</p>\n<p>Uno de los aprendizajes clave de la experiencia anterior fue la necesidad de ampliar el tiempo disponible y de anticipar mejor las dificultades técnicas. Con 2 semanas resultó ajustado; se proponen ahora 4 semanas para incluir una fase de preparación técnica y otra de ensayo antes de la exposición, reduciendo la presión de tiempo y mejorando la fluidez del trabajo.</p>\n<p>Herramientas digitales y uso guiado de la IA</p>\n<p>La Rutina de Pensamiento identificó que el alumnado desconoce funciones básicas (Ctrl+C / Ctrl+V) y que necesita más apoyo inicial en el uso de herramientas. Esta SdA incorpora una sesión introductoria específica de alfabetización digital y una guía paso a paso para el uso de Canva y su función de IA (redacción de prompts), abordando directamente la debilidad detectada.</p>\n<p>Trabajo cooperativo con roles definidos</p>\n<p>La experiencia mostró que los distintos ritmos del alumnado pueden dificultar el trabajo en equipo. Al ser un grupo reducido (3 alumnos en el caso anterior), la asignación de roles claros (coordinador, redactor, diseñador) permite que cada uno contribuya desde sus puntos fuertes y avance a su propio ritmo sin bloquear al equipo.</p>\n<p>Materia: Religión Evangélica</p>\n<p>La SdA se enmarca en el currículo de Religión Evangélica, conectando los saberes básicos de la asignatura (texto bíblico, mensaje cristiano, valores evangélicos) con las competencias clave del perfil de salida del alumnado, especialmente la competencia digital y la competencia personal, social y de aprender a aprender.</p>\n<p>Diseño Universal para el Aprendizaje (DUA)</p>\n<p>La reflexión destacó que cada alumno sigue un ritmo diferente y que el acompañamiento cercano —tanto motivacional como técnico— es lo que mejor funciona. La SdA incorpora múltiples medios de representación (vídeo, texto, presentación oral), de acción y expresión (digital, oral, visual) y de implicación (elección de parábola, libertad creativa en el diseño), respondiendo así a la diversidad del aula.</p>\n<p><br /></p>\n<p><br />4. ESTRUCTURA Y FASES DE LA SITUACIÓN DE APRENDIZAJE</p>\n<p>FASE 1 · Semana 1 · Sesiones 1-2 | MOTIVACIÓN Y COMPRENSIÓN DEL TEXTO<br />Presentación del reto. Lectura guiada de las parábolas. Lluvia de ideas sobre su significado. Introducción básica a Canva y Google Slides (atajos de teclado, funciones esenciales).</p>\n<p>FASE 2 · Semana 2 · Sesiones 3-4 | INVESTIGACIÓN Y DISEÑO<br />Investigación en internet sobre el contexto histórico de la parábola elegida. Conexión con situaciones cotidianas. Inicio del diseño de la presentación. Uso guiado de la IA de Canva (elaboración del prompt).</p>\n<p>FASE 3 · Semana 3 · Sesiones 5-6 | ELABORACIÓN DEL PRODUCTO DIGITAL<br />Desarrollo y maquetación completa de la presentación. Revisión por pares. Ajustes de contenido y diseño. Ensayo de la exposición.</p>\n<p>FASE 4 · Semana 4 · Sesiones 7-8 | EXPOSICIÓN Y EVALUACIÓN<br />Exposición oral del trabajo al grupo. Coevaluación con rúbrica. Reflexión final: ¿qué aprendí? ¿cómo lo usaría en mi vida?</p>\n<p><br /></p>\n<p><br />5. INDICADORES DEL MARCO DE REFERENCIA DE COMPETENCIA DIGITAL</p>\n<p> Indicador 1.3.B2.4<br />Descripción<br />Diseña estrategias para gestionar la incertidumbre derivada de la planificación de prácticas transformadoras perfiladas tras el análisis.<br />Aplicación en la SdA<br />La SdA incorpora una fase de preparación técnica (Sesiones 1-2) que anticipa las dificultades detectadas en la experiencia previa, gestionando la incertidumbre antes de que aparezca.</p>\n<p><br /></p>\n<p> Indicador 1.4.B2.1<br />Descripción<br />Adapta los conocimientos y experiencias, intercambiados en comunidades profesionales en línea y/o actividades formativas presenciales sobre el uso de las tecnologías digitales y evalúa su puesta en práctica.<br />Aplicación en la SdA<br />El diseño de la SdA aplica directamente los aprendizajes adquiridos en esta formación B2 y los contrasta con la experiencia real de aula documentada en la Rutina de Pensamiento.</p>\n<p><br /></p>\n<p> Indicador 2.2.B2.1<br />Descripción<br />Crea, de forma individual o en colaboración con otros, nuevas unidades y secuencias de aprendizaje a partir de la integración de contenidos digitales diversos.<br />Aplicación en la SdA<br />La SdA integra texto bíblico, investigación web, herramientas de diseño digital (Canva con IA, Google Slides) y exposición oral en una secuencia coherente adaptada al contexto del aula.</p>\n<p><br /></p>\n<p>6. NOTA SOBRE EL PRODUCTO FINAL (eXeLearning)</p>\n<p>Este documento constituye la Tarea 2.1 del curso de formación B2 de Competencia Digital Docente. Sus contenidos serán incorporados posteriormente al producto final elaborado con la herramienta eXeLearning, junto con los demás elementos exigidos (protección de datos, curación de contenidos, línea temporal, criterios e instrumentos de evaluación), de acuerdo con las instrucciones del curso.</p>\n<p>La Rutina de Pensamiento (Tarea 1.1) no se incluye en este documento, pero ha servido como base reflexiva para justificar cada una de las decisiones de diseño recogidas en el apartado 3 de este documento.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcaitfc-pcraiov9m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Seguridad digital y licencias</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Seguridad digital y licencias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Seguridad digital y licencias</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcaitfc-pcraiov9m</odePageId>
+      <odeBlockId>block-1778827442391-8b6wzja7m</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcaitfc-pcraiov9m</odePageId>
+          <odeBlockId>block-1778827442391-8b6wzja7m</odeBlockId>
+          <odeIdeviceId>idevice-1778827442389-gu2cl2jmi</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">¿Qué nos enseña Jesús hoy?</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de Aprendizaje sobre las parábolas de Jesús · Religión Evangélica · 2.º ESO</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Brian Bojanowski</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">https://canva.link/us1jg462fnmzvy6</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcaitfd-8qj0ydsax</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. El reto: las parábolas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. El reto: las parábolas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. El reto: las parábolas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcaitfd-8qj0ydsax</odePageId>
+      <odeBlockId>block-1778827790483-kxjijyt4h</odeBlockId>
+      <blockName>¿Qué vamos a aprender en esta actividad?</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcaitfd-8qj0ydsax</odePageId>
+          <odeBlockId>block-1778827790483-kxjijyt4h</odeBlockId>
+          <odeIdeviceId>idevice-1778827790480-iue5rypm4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Leer y comprender una parábola de Jesús utilizando la Biblia en línea<br />Identificar el mensaje central que Jesús quiso transmitir con esa parábola<br />Relacionar ese mensaje con situaciones reales de nuestra vida cotidiana<br />Organizar nuestras ideas usando un mapa mental digital colaborativo<br />Diseñar una presentación visual atractiva con Canva, incluyendo el uso de inteligencia artificial<br />Crear una infografía para comunicar el mensaje de la parábola al resto del centro<br />Exponer nuestro trabajo oralmente ante el grupo con claridad y argumentos propios<br />Usar las herramientas digitales de forma responsable, segura y respetando los derechos de autor</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778827790480-iue5rypm4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Leer y comprender una parábola de Jesús utilizando la Biblia en línea<br />Identificar el mensaje central que Jesús quiso transmitir con esa parábola<br />Relacionar ese mensaje con situaciones reales de nuestra vida cotidiana<br />Organizar nuestras ideas usando un mapa mental digital colaborativo<br />Diseñar una presentación visual atractiva con Canva, incluyendo el uso de inteligencia artificial<br />Crear una infografía para comunicar el mensaje de la parábola al resto del centro<br />Exponer nuestro trabajo oralmente ante el grupo con claridad y argumentos propios<br />Usar las herramientas digitales de forma responsable, segura y respetando los derechos de autor</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpcaitfd-8qj0ydsax</odePageId>
+      <odeBlockId>block-1778827880943-xlzk43y4k</odeBlockId>
+      <blockName>Video ejemlplo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcaitfd-8qj0ydsax</odePageId>
+          <odeBlockId>block-1778827880943-xlzk43y4k</odeBlockId>
+          <odeIdeviceId>idevice-1778827880938-5c7q2li2m</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">¿Qué nos enseña Jesús hoy?</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de Aprendizaje sobre las parábolas de Jesús · Religión Evangélica · 2.º ESO</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Brian Bojanowski</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#381075;color:#ffffff;">https://www.youtube.com/watch?v=jZinwS_2jsQ</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcaitff-tpbum5a8h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Sesiones y organización</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Sesiones y organización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Sesiones y organización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcaitff-tpbum5a8h</odePageId>
+      <odeBlockId>block-1779174499251-15uz4sor0</odeBlockId>
+      <blockName>Mapa mental</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcaitff-tpbum5a8h</odePageId>
+          <odeBlockId>block-1779174499251-15uz4sor0</odeBlockId>
+          <odeIdeviceId>idevice-1779174499249-ci0ksivtm</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info" style="width: 100%; height: 188px;"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr style="height: 41px;">
+<th style="width: 17.8868%; height: 41px;">Título</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 81.9715%; height: 41px;"><span class="exe-prop-title">¿Qué nos enseña Jesús hoy?</span></td>
+</tr>
+<tr style="height: 65px;">
+<th style="width: 17.8868%; height: 65px;">Descripción</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 81.9715%; height: 65px;"><span class="exe-prop-description">Situación de Aprendizaje sobre las parábolas de Jesús · Religión Evangélica · 2.º ESO</span></td>
+</tr>
+<tr style="height: 41px;">
+<th style="width: 17.8868%; height: 41px;">Autoría</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 81.9715%; height: 41px;"><span class="exe-prop-author">Brian Bojanowski</span></td>
+</tr>
+<tr style="height: 41px;">
+<th style="width: 17.8868%; height: 41px;">Licencia</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 81.9715%; height: 41px;"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107549;color:#ffffff;">https://mm.tt/map/4000014801?t=fcPm5J61mu</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcaitff-65r5ow252</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Recursos para el alumnado</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcaitff-65r5ow252</odePageId>
+      <odeBlockId>block-1779174852383-v6cwu1fn3</odeBlockId>
+      <blockName>Resumen</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcaitff-65r5ow252</odePageId>
+          <odeBlockId>block-1779174852383-v6cwu1fn3</odeBlockId>
+          <odeIdeviceId>idevice-1779174852373-lvm32nt3q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Sesion 1: Lectura de la parábola + Lluvia de ideas</p>
+<p>Sesion 2: Esquema de ideas + Inicio presentación Canva</p>
+<p>Sesion 3: Finalización presentación + Infografía para el tablón</p>
+<p>Sesion 4: Exposición oral + Autoevaluación</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779174852373-lvm32nt3q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Sesion 1: Lectura de la parábola + Lluvia de ideas</p>\n<p>Sesion 2: Esquema de ideas + Inicio presentación Canva</p>\n<p>Sesion 3: Finalización presentación + Infografía para el tablón</p>\n<p>Sesion 4: Exposición oral + Autoevaluación</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcaitfg-jgsomnlp6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcaitfg-jgsomnlp6</odePageId>
+      <odeBlockId>block-1779175110362-x7ubx68ca</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcaitfg-jgsomnlp6</odePageId>
+          <odeBlockId>block-1779175110362-x7ubx68ca</odeBlockId>
+          <odeIdeviceId>idevice-1779175110346-p4dbmp5l8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Sesión 1:</strong> Lectura de la parábola y tormenta de ideas. El alumnado lee el texto bíblico y comenta en grupo qué mensaje transmite y cómo conecta con su vida.<br />2.3. Analizar las relaciones de Jesús con los discípulos y diversas personas, reconociendo las implicaciones personales que tiene ser discípulo de Jesucristo.<br /><strong>Sesión 2:</strong> Organización de ideas y inicio del diseño digital. El alumnado elabora un esquema de ideas y comienza la presentación en Canva, con apoyo del docente en el uso de la herramienta.<br />1.3. Identificar las principales enseñanzas de la Biblia sobre Dios y su relación con el ser humano, mostrando habilidad para manejar la Biblia con autonomía.<br /><strong>Sesión 3:</strong> Finalización de la presentación e infografía. El alumnado termina la presentación digital y exporta una versión en formato infografía para el tablón del centro.<br />4.2. Apreciar los principios de respeto, amor al prójimo y responsabilidad social, examinándolos desde una perspectiva bíblica.<br /><strong>Sesión 4:</strong> Exposición oral y autoevaluación. Cada alumno/a expone una parte del trabajo. Al finalizar, se realiza una breve autoevaluación individual.<br />1.3. Identificar las principales enseñanzas de la Biblia sobre Dios y su relación con el ser humano, mostrando habilidad para manejar la Biblia con autonomía.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779175110346-p4dbmp5l8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Sesión 1:</strong> Lectura de la parábola y tormenta de ideas. El alumnado lee el texto bíblico y comenta en grupo qué mensaje transmite y cómo conecta con su vida.<br />2.3. Analizar las relaciones de Jesús con los discípulos y diversas personas, reconociendo las implicaciones personales que tiene ser discípulo de Jesucristo.<br /><strong>Sesión 2:</strong> Organización de ideas y inicio del diseño digital. El alumnado elabora un esquema de ideas y comienza la presentación en Canva, con apoyo del docente en el uso de la herramienta.<br />1.3. Identificar las principales enseñanzas de la Biblia sobre Dios y su relación con el ser humano, mostrando habilidad para manejar la Biblia con autonomía.<br /><strong>Sesión 3:</strong> Finalización de la presentación e infografía. El alumnado termina la presentación digital y exporta una versión en formato infografía para el tablón del centro.<br />4.2. Apreciar los principios de respeto, amor al prójimo y responsabilidad social, examinándolos desde una perspectiva bíblica.<br /><strong>Sesión 4:</strong> Exposición oral y autoevaluación. Cada alumno/a expone una parte del trabajo. Al finalizar, se realiza una breve autoevaluación individual.<br />1.3. Identificar las principales enseñanzas de la Biblia sobre Dios y su relación con el ser humano, mostrando habilidad para manejar la Biblia con autonomía.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpcaitfg-jgsomnlp6</odePageId>
+      <odeBlockId>block-1779175335552-qm8ep1fh8</odeBlockId>
+      <blockName>Relacionamos tareas con criterios de evaluación</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcaitfg-jgsomnlp6</odePageId>
+          <odeBlockId>block-1779175335552-qm8ep1fh8</odeBlockId>
+          <odeIdeviceId>idevice-1779175335542-0u4v0ml1t</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">¿Qué nos enseña Jesús hoy?</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de Aprendizaje sobre las parábolas de Jesús · Religión Evangélica · 2.º ESO</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Brian Bojanowski</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#28d72a;color:#ffffff;">https://docs.google.com/document/d/1Bdip8SAnWm6MmTNnKMJM0xLY0lklK7nl/edit</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcaitfg-miffdksax</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Guía didáctica</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcaitfg-miffdksax</odePageId>
+      <odeBlockId>block-1779175481806-wezwtp85z</odeBlockId>
+      <blockName>Tareas y Criterios</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcaitfg-miffdksax</odePageId>
+          <odeBlockId>block-1779175481806-wezwtp85z</odeBlockId>
+          <odeIdeviceId>idevice-1779175481796-hiosuabau</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>BLOQUE 1 · Introducción</p>
+<p>Esta guía didáctica está pensada para facilitar la aplicación de la Situación de Aprendizaje «¿Qué nos enseña Jesús hoy?» a cualquier docente de Religión Evangélica en 2.º de ESO. Recoge la relación entre las tareas del proyecto y los criterios de evaluación del currículo oficial (LOMLOE), así como recomendaciones prácticas extraídas de la experiencia en el aula.</p>
+<p></p>
+<p>BLOQUE 2 · Tabla de tareas y criterios </p>
+<p><img src="{{context_path}}/content/resources/mceclip0.png" /></p>
+<p></p>
+<p>BLOQUE 3 · Observaciones y recomendaciones para otros docentes</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779175481796-hiosuabau","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>BLOQUE 1 · Introducción</p>\n<p>Esta guía didáctica está pensada para facilitar la aplicación de la Situación de Aprendizaje «¿Qué nos enseña Jesús hoy?» a cualquier docente de Religión Evangélica en 2.º de ESO. Recoge la relación entre las tareas del proyecto y los criterios de evaluación del currículo oficial (LOMLOE), así como recomendaciones prácticas extraídas de la experiencia en el aula.</p>\n<p></p>\n<p>BLOQUE 2 · Tabla de tareas y criterios </p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>\n<p></p>\n<p>BLOQUE 3 · Observaciones y recomendaciones para otros docentes</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpcaitfg-miffdksax</odePageId>
+      <odeBlockId>block-1779176114439-0pz6abdkv</odeBlockId>
+      <blockName>Observaciones y recomendaciones para otros docentes</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcaitfg-miffdksax</odePageId>
+          <odeBlockId>block-1779176114439-0pz6abdkv</odeBlockId>
+          <odeIdeviceId>idevice-1779176114428-1wqoeenqg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>BLOQUE 3 · Observaciones y recomendaciones para otros docentes:</p>
+<p>Recomendaciones para la aplicación en el aula</p>
+<p>Sobre el grupo y los tiempos Esta SdA ha sido diseñada para un grupo muy reducido (3 alumnos), lo que permite un seguimiento cercano y una atención muy individualizada. Si se aplica a un grupo más numeroso, se recomienda ampliar la temporalización a 6 sesiones y distribuir los roles de trabajo cooperativo con más detalle (coordinador, diseñador, redactor, portavoz).</p>
+<p>Sobre las herramientas digitales Antes de la Sesión 1 conviene verificar que todos los dispositivos tienen acceso a Canva, Bible Gateway y MindMeister desde el navegador del centro, sin necesidad de instalación. Se recomienda dedicar los primeros 10 minutos de la Sesión 2 a repasar las funciones básicas de Canva (atajos de teclado, duplicar diapositivas, exportar) para evitar interrupciones durante el trabajo creativo.</p>
+<p>Sobre el uso de la IA en Canva El uso guiado de la función de inteligencia artificial de Canva para generar imágenes es uno de los momentos más motivadores de la SdA. Para aprovecharlo bien, se sugiere trabajar previamente con el alumnado qué es un prompt y cómo redactarlo con detalle. Una buena práctica es hacer un ejemplo colectivo en la pizarra antes de que cada grupo redacte el suyo de forma autónoma.</p>
+<p>Sobre la evaluación Se recomienda compartir la rúbrica con el alumnado desde la Sesión 1 para que conozcan los criterios desde el inicio y puedan autorregular su proceso. La diana de autoevaluación (Sesión 4) funciona mejor si se garantiza el anonimato mediante Google Forms, lo que reduce el sesgo de respuesta por cortesía.</p>
+<p>Sobre la diversidad y el DUA Al tratarse de una materia de libre elección, es habitual que coincidan en el aula alumnos con niveles de competencia digital muy distintos. Para atender esa diversidad se sugiere ofrecer dos opciones de soporte: una guía paso a paso impresa para quienes tengan más dificultades con las herramientas, y libertad creativa ampliada en el diseño para quienes terminen antes. El trabajo en grupo pequeño ya facilita de por sí la ayuda entre iguales.</p>
+<p>Sobre los derechos de autor Es importante recordar al alumnado antes de la Sesión 2 que todas las imágenes que incluyan en su presentación deben tener licencia libre (Pixabay, Unsplash, Wikimedia Commons) y que deben citar la fuente al pie de cada imagen. Este momento es una oportunidad para reforzar la infografía de seguridad digital trabajada al inicio de la SdA.</p>
+<p>Conexión con otras materias Aunque esta SdA pertenece a Religión Evangélica, sus competencias digitales (uso de Canva, búsqueda en internet, exposición oral con soporte visual) son transferibles a cualquier materia. Se puede plantear como punto de partida para una coordinación con el área de Lengua Castellana (exposición oral) o con Tecnología e Informática (uso responsable de la IA).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779176114428-1wqoeenqg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>BLOQUE 3 · Observaciones y recomendaciones para otros docentes:</p>\n<p>Recomendaciones para la aplicación en el aula</p>\n<p>Sobre el grupo y los tiempos Esta SdA ha sido diseñada para un grupo muy reducido (3 alumnos), lo que permite un seguimiento cercano y una atención muy individualizada. Si se aplica a un grupo más numeroso, se recomienda ampliar la temporalización a 6 sesiones y distribuir los roles de trabajo cooperativo con más detalle (coordinador, diseñador, redactor, portavoz).</p>\n<p>Sobre las herramientas digitales Antes de la Sesión 1 conviene verificar que todos los dispositivos tienen acceso a Canva, Bible Gateway y MindMeister desde el navegador del centro, sin necesidad de instalación. Se recomienda dedicar los primeros 10 minutos de la Sesión 2 a repasar las funciones básicas de Canva (atajos de teclado, duplicar diapositivas, exportar) para evitar interrupciones durante el trabajo creativo.</p>\n<p>Sobre el uso de la IA en Canva El uso guiado de la función de inteligencia artificial de Canva para generar imágenes es uno de los momentos más motivadores de la SdA. Para aprovecharlo bien, se sugiere trabajar previamente con el alumnado qué es un prompt y cómo redactarlo con detalle. Una buena práctica es hacer un ejemplo colectivo en la pizarra antes de que cada grupo redacte el suyo de forma autónoma.</p>\n<p>Sobre la evaluación Se recomienda compartir la rúbrica con el alumnado desde la Sesión 1 para que conozcan los criterios desde el inicio y puedan autorregular su proceso. La diana de autoevaluación (Sesión 4) funciona mejor si se garantiza el anonimato mediante Google Forms, lo que reduce el sesgo de respuesta por cortesía.</p>\n<p>Sobre la diversidad y el DUA Al tratarse de una materia de libre elección, es habitual que coincidan en el aula alumnos con niveles de competencia digital muy distintos. Para atender esa diversidad se sugiere ofrecer dos opciones de soporte: una guía paso a paso impresa para quienes tengan más dificultades con las herramientas, y libertad creativa ampliada en el diseño para quienes terminen antes. El trabajo en grupo pequeño ya facilita de por sí la ayuda entre iguales.</p>\n<p>Sobre los derechos de autor Es importante recordar al alumnado antes de la Sesión 2 que todas las imágenes que incluyan en su presentación deben tener licencia libre (Pixabay, Unsplash, Wikimedia Commons) y que deben citar la fuente al pie de cada imagen. Este momento es una oportunidad para reforzar la infografía de seguridad digital trabajada al inicio de la SdA.</p>\n<p>Conexión con otras materias Aunque esta SdA pertenece a Religión Evangélica, sus competencias digitales (uso de Canva, búsqueda en internet, exposición oral con soporte visual) son transferibles a cualquier materia. Se puede plantear como punto de partida para una coordinación con el área de Lengua Castellana (exposición oral) o con Tecnología e Informática (uso responsable de la IA).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpcaitfg-6ea41fcsi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpcaitfg-6ea41fcsi</odePageId>
+      <odeBlockId>block-1779176274758-4bauhz4hb</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcaitfg-6ea41fcsi</odePageId>
+          <odeBlockId>block-1779176274758-4bauhz4hb</odeBlockId>
+          <odeIdeviceId>idevice-1779176274751-1kthsvv4l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autor:</strong> Brian Bojanowski.</p>
+<p>Docente de Religión Evangélica IES Llanes · Sevilla</p>
+<p><strong>Descripción:</strong> Esta Situación de Aprendizaje, titulada «¿Qué nos enseña Jesús hoy?», ha sido diseñada para el alumnado de 2.º de ESO de la materia de Religión Evangélica. Propone un recorrido de 4 sesiones en el que el alumnado lee, analiza y comunica el mensaje de las parábolas de Jesús conectándolo con su vida cotidiana, utilizando herramientas digitales como Canva, MindMeister y Bible Gateway.</p>
+<p><strong>Licencia de uso: </strong>Este recurso educativo se publica bajo licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).</p>
+<p>Más información: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es</p>
+<p><strong>Elaborado con eXeLearning 3</strong> · Herramienta libre y gratuita para la creación de recursos educativos abiertos. https://exelearning.net</p>
+<p>Curso escolar 2024-2025</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779176274751-1kthsvv4l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autor:</strong> Brian Bojanowski.</p>\n<p>Docente de Religión Evangélica IES Llanes · Sevilla</p>\n<p><strong>Descripción:</strong> Esta Situación de Aprendizaje, titulada «¿Qué nos enseña Jesús hoy?», ha sido diseñada para el alumnado de 2.º de ESO de la materia de Religión Evangélica. Propone un recorrido de 4 sesiones en el que el alumnado lee, analiza y comunica el mensaje de las parábolas de Jesús conectándolo con su vida cotidiana, utilizando herramientas digitales como Canva, MindMeister y Bible Gateway.</p>\n<p><strong>Licencia de uso: </strong>Este recurso educativo se publica bajo licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).</p>\n<p>Más información: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es</p>\n<p><strong>Elaborado con eXeLearning 3</strong> · Herramienta libre y gratuita para la creación de recursos educativos abiertos. https://exelearning.net</p>\n<p>Curso escolar 2024-2025</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpcaitfg-6ea41fcsi</odePageId>
+      <odeBlockId>block-1779182879490-jvrze0tvb</odeBlockId>
+      <blockName>Descargar el archivo editable</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpcaitfg-6ea41fcsi</odePageId>
+          <odeBlockId>block-1779182879490-jvrze0tvb</odeBlockId>
+          <odeIdeviceId>idevice-1779182879488-gf4b3caci</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">¿Qué nos enseña Jesús hoy?</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de Aprendizaje sobre las parábolas de Jesús · Religión Evangélica · 2.º ESO</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Brian Bojanowski</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#78d6d9;color:#ffffff;">https://drive.google.com/file/d/1DEedFWFPK16Gwt7RzWMXimqvv8-e6iN6/view?usp=sharing</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
